@@ -1,0 +1,148 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Learning Outcomes of the course}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{What is Success for a Large Project?}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Software Architecture}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Case Study: General Practice Extraction System}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Basic Concepts of Architectures}{}% 6
+\BOOKMARK [1][-]{section.2.1}{What is good architecture?}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{Process}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Structure}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.4}{The Importance of Architecture}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.5}{Managing Attributes and Change}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.6}{Prediction of Attributes}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.7}{Communication Between Stakeholders}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.8}{Early Design and Constraints}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.9}{Evolutionary Prototyping}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.10}{Cost and Scheduling}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.11}{Product Line \(Model\)}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.12}{Component Level \046 Channelling Development}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{Context Design}{}% 19
+\BOOKMARK [1][-]{section.3.1}{Technical Context}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.1.1}{Controlling Quality Attributes}{section.3.1}% 21
+\BOOKMARK [1][-]{section.3.2}{Project Life-cycle Context}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.2.1}{V-Model}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.2}{Spiral Model}{section.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.2.3}{Agile Development}{section.3.2}% 25
+\BOOKMARK [2][-]{subsection.3.2.4}{Agile + Devops}{section.3.2}% 26
+\BOOKMARK [1][-]{section.3.3}{Business Context}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.4}{Professional Context}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.5}{Domain-Specific Software Architecture}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.6}{Architectural Patterns}{chapter.3}% 30
+\BOOKMARK [0][-]{chapter.4}{Quality Attriburtes}{}% 31
+\BOOKMARK [1][-]{section.4.1}{Some Background}{chapter.4}% 32
+\BOOKMARK [2][-]{subsection.4.1.1}{Stakeholders}{section.4.1}% 33
+\BOOKMARK [2][-]{subsection.4.1.2}{Functional Requirements}{section.4.1}% 34
+\BOOKMARK [2][-]{subsection.4.1.3}{Constraints}{section.4.1}% 35
+\BOOKMARK [1][-]{section.4.2}{Quality Attributes}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.2.1}{Problems with Quality Attributes}{section.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.2.2}{QA Scenarios}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.3}{Architectural Tactics}{section.4.2}% 39
+\BOOKMARK [2][-]{subsection.4.2.4}{Categories of Architectural Design Decisions}{section.4.2}% 40
+\BOOKMARK [0][-]{chapter.5}{Availability}{}% 41
+\BOOKMARK [1][-]{section.5.1}{Availability}{chapter.5}% 42
+\BOOKMARK [1][-]{section.5.2}{Faults, errors, and failures}{chapter.5}% 43
+\BOOKMARK [1][-]{section.5.3}{Faults, errors, and failures - Example}{chapter.5}% 44
+\BOOKMARK [1][-]{section.5.4}{Generic Scenario}{chapter.5}% 45
+\BOOKMARK [1][-]{section.5.5}{Concrete Scenario}{chapter.5}% 46
+\BOOKMARK [1][-]{section.5.6}{Availability Tactics}{chapter.5}% 47
+\BOOKMARK [1][-]{section.5.7}{WatchDog}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.8}{Architectural Design Decisions}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.8.1}{Allocation of Responsibilities}{section.5.8}% 50
+\BOOKMARK [2][-]{subsection.5.8.2}{Coordination Model}{section.5.8}% 51
+\BOOKMARK [2][-]{subsection.5.8.3}{Data Model}{section.5.8}% 52
+\BOOKMARK [2][-]{subsection.5.8.4}{Management of Resources}{section.5.8}% 53
+\BOOKMARK [2][-]{subsection.5.8.5}{Mapping among architectural elements}{section.5.8}% 54
+\BOOKMARK [2][-]{subsection.5.8.6}{Binding Time Decisions}{section.5.8}% 55
+\BOOKMARK [2][-]{subsection.5.8.7}{Choice of Technology}{section.5.8}% 56
+\BOOKMARK [0][-]{chapter.6}{Performance}{}% 57
+\BOOKMARK [1][-]{section.6.1}{Performance General Scenario}{chapter.6}% 58
+\BOOKMARK [1][-]{section.6.2}{Making the Scenario Specific}{chapter.6}% 59
+\BOOKMARK [1][-]{section.6.3}{A Possible Architecture}{chapter.6}% 60
+\BOOKMARK [1][-]{section.6.4}{Being Specific About the Architecture}{chapter.6}% 61
+\BOOKMARK [1][-]{section.6.5}{Performance Tactics}{chapter.6}% 62
+\BOOKMARK [1][-]{section.6.6}{Control Resource Demand Tactics}{chapter.6}% 63
+\BOOKMARK [1][-]{section.6.7}{Manage Resources}{chapter.6}% 64
+\BOOKMARK [1][-]{section.6.8}{Checklist: Allocation of Responsibilities}{chapter.6}% 65
+\BOOKMARK [1][-]{section.6.9}{Checklist: Coordination Model }{chapter.6}% 66
+\BOOKMARK [1][-]{section.6.10}{Checklist: Data Model}{chapter.6}% 67
+\BOOKMARK [1][-]{section.6.11}{Checklist: Mapping Among Architecture Elements }{chapter.6}% 68
+\BOOKMARK [1][-]{section.6.12}{Checklist: Resource Management}{chapter.6}% 69
+\BOOKMARK [1][-]{section.6.13}{Checklist: Binding Time}{chapter.6}% 70
+\BOOKMARK [1][-]{section.6.14}{Checklist: Choice of Technology}{chapter.6}% 71
+\BOOKMARK [0][-]{chapter.7}{Security}{}% 72
+\BOOKMARK [1][-]{section.7.1}{Important QA's}{chapter.7}% 73
+\BOOKMARK [1][-]{section.7.2}{Security Scenario Components}{chapter.7}% 74
+\BOOKMARK [2][-]{subsection.7.2.1}{Generic Example}{section.7.2}% 75
+\BOOKMARK [1][-]{section.7.3}{More Concrete example}{chapter.7}% 76
+\BOOKMARK [1][-]{section.7.4}{Security Architecture tactics}{chapter.7}% 77
+\BOOKMARK [1][-]{section.7.5}{Architectural Design Decisions}{chapter.7}% 78
+\BOOKMARK [2][-]{subsection.7.5.1}{Allocation of resposibilities}{section.7.5}% 79
+\BOOKMARK [2][-]{subsection.7.5.2}{Coordination Model}{section.7.5}% 80
+\BOOKMARK [2][-]{subsection.7.5.3}{Data Model}{section.7.5}% 81
+\BOOKMARK [2][-]{subsection.7.5.4}{Mapping among Architectural Elements}{section.7.5}% 82
+\BOOKMARK [2][-]{subsection.7.5.5}{Resource Management}{section.7.5}% 83
+\BOOKMARK [2][-]{subsection.7.5.6}{Binding Time}{section.7.5}% 84
+\BOOKMARK [2][-]{subsection.7.5.7}{Choices of Technologies}{section.7.5}% 85
+\BOOKMARK [0][-]{chapter.8}{Connectors}{}% 86
+\BOOKMARK [1][-]{section.8.1}{What is Different About Connectors?}{chapter.8}% 87
+\BOOKMARK [1][-]{section.8.2}{Benefits of Explicit Connectors}{chapter.8}% 88
+\BOOKMARK [1][-]{section.8.3}{Roles Played By Software Connectors}{chapter.8}% 89
+\BOOKMARK [1][-]{section.8.4}{Communication}{chapter.8}% 90
+\BOOKMARK [1][-]{section.8.5}{Coordination}{chapter.8}% 91
+\BOOKMARK [1][-]{section.8.6}{Conversion}{chapter.8}% 92
+\BOOKMARK [1][-]{section.8.7}{Facilitation}{chapter.8}% 93
+\BOOKMARK [1][-]{section.8.8}{Types of Connectors \(Talyor, Medvidovic \046 Dashofy\)}{chapter.8}% 94
+\BOOKMARK [0][-]{chapter.9}{Architectural Patterns}{}% 95
+\BOOKMARK [1][-]{section.9.1}{Static Patterns}{chapter.9}% 96
+\BOOKMARK [2][-]{subsection.9.1.1}{Layer Pattern}{section.9.1}% 97
+\BOOKMARK [1][-]{section.9.2}{Connector and component models}{chapter.9}% 98
+\BOOKMARK [2][-]{subsection.9.2.1}{Model-View-Controller}{section.9.2}% 99
+\BOOKMARK [1][-]{section.9.3}{Deployment/Allocation patterns}{chapter.9}% 100
+\BOOKMARK [2][-]{subsection.9.3.1}{Map-reduce pattern}{section.9.3}% 101
+\BOOKMARK [2][-]{subsection.9.3.2}{Other Allocation Patterns}{section.9.3}% 102
+\BOOKMARK [1][-]{section.9.4}{Other patterns}{chapter.9}% 103
+\BOOKMARK [1][-]{section.9.5}{Relationship between Patterns and Tactics}{chapter.9}% 104
+\BOOKMARK [0][-]{chapter.10}{Testability}{}% 105
+\BOOKMARK [1][-]{section.10.1}{Overview}{chapter.10}% 106
+\BOOKMARK [1][-]{section.10.2}{General Scenario of Testing}{chapter.10}% 107
+\BOOKMARK [1][-]{section.10.3}{Main Tactics Towards Increasing Testability}{chapter.10}% 108
+\BOOKMARK [1][-]{section.10.4}{Checklist Towards Achieving Testability}{chapter.10}% 109
+\BOOKMARK [1][-]{section.10.5}{Summary}{chapter.10}% 110
+\BOOKMARK [0][-]{chapter.11}{Modifiability}{}% 111
+\BOOKMARK [1][-]{section.11.1}{Overview}{chapter.11}% 112
+\BOOKMARK [1][-]{section.11.2}{Four key questions that are asked when making a system:}{chapter.11}% 113
+\BOOKMARK [1][-]{section.11.3}{A specific scenario with same "general scenario" terms used as in the testability section:}{chapter.11}% 114
+\BOOKMARK [1][-]{section.11.4}{Important Terms}{chapter.11}% 115
+\BOOKMARK [1][-]{section.11.5}{Tactics of Modifiability:}{chapter.11}% 116
+\BOOKMARK [1][-]{section.11.6}{Checklist Towards Achieving Modifiability}{chapter.11}% 117
+\BOOKMARK [1][-]{section.11.7}{Summary}{chapter.11}% 118
+\BOOKMARK [0][-]{chapter.12}{Architectural Modeling:}{}% 119
+\BOOKMARK [1][-]{section.12.1}{Overview}{chapter.12}% 120
+\BOOKMARK [1][-]{section.12.2}{How the model looks like:}{chapter.12}% 121
+\BOOKMARK [1][-]{section.12.3}{MVC Model \205 model to test the \215performance\216 quality attribute}{chapter.12}% 122
+\BOOKMARK [1][-]{section.12.4}{Main Quality Attributes and their Analysis Techniques}{chapter.12}% 123
+\BOOKMARK [1][-]{section.12.5}{Types of Analysis}{chapter.12}% 124
+\BOOKMARK [1][-]{section.12.6}{Summary}{chapter.12}% 125
+\BOOKMARK [0][-]{chapter.13}{Lifecycle}{}% 126
+\BOOKMARK [1][-]{section.13.1}{Overview}{chapter.13}% 127
+\BOOKMARK [1][-]{section.13.2}{Typical Examples}{chapter.13}% 128
+\BOOKMARK [1][-]{section.13.3}{Agile Programming}{chapter.13}% 129
+\BOOKMARK [1][-]{section.13.4}{Comparison of Agile versus Plan-Driven Approach}{chapter.13}% 130
+\BOOKMARK [1][-]{section.13.5}{Summary}{chapter.13}% 131
+\BOOKMARK [0][-]{chapter.14}{Product Line Architecture}{}% 132
+\BOOKMARK [1][-]{section.14.1}{Overview}{chapter.14}% 133
+\BOOKMARK [1][-]{section.14.2}{Key Properties}{chapter.14}% 134
+\BOOKMARK [1][-]{section.14.3}{Benefits to organization}{chapter.14}% 135
+\BOOKMARK [1][-]{section.14.4}{Main Terms}{chapter.14}% 136
+\BOOKMARK [1][-]{section.14.5}{Different Techniques in Introducing Product Lines}{chapter.14}% 137
+\BOOKMARK [1][-]{section.14.6}{Pros of Using a Product Line:}{chapter.14}% 138
+\BOOKMARK [1][-]{section.14.7}{Architectural Features of Product Lines:}{chapter.14}% 139
+\BOOKMARK [1][-]{section.14.8}{Phased Introduction}{chapter.14}% 140
+\BOOKMARK [0][-]{chapter.15}{DevOps}{}% 141
+\BOOKMARK [1][-]{section.15.1}{Overview}{chapter.15}% 142
+\BOOKMARK [1][-]{section.15.2}{OSLC}{chapter.15}% 143
+\BOOKMARK [1][-]{section.15.3}{Critical Points in the Lifecycle of Software}{chapter.15}% 144
+\BOOKMARK [1][-]{section.15.4}{Microservices Architectural Pattern}{chapter.15}% 145
+\BOOKMARK [1][-]{section.15.5}{How to make development easier, faster, and better}{chapter.15}% 146
+\BOOKMARK [0][-]{chapter.16}{Analysis \(Architectural Evaluation\)}{}% 147
+\BOOKMARK [1][-]{section.16.1}{Aids}{chapter.16}% 148

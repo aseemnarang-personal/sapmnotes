@@ -1,0 +1,150 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Learning Outcomes of the course}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}What is Success for a Large Project?}{5}{section.1.2}
+\contentsline {section}{\numberline {1.3}Software Architecture}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Case Study: General Practice Extraction System}{6}{section.1.4}
+\contentsline {chapter}{\numberline {2}Basic Concepts of Architectures}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}What is good architecture?}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Process}{10}{section.2.2}
+\contentsline {section}{\numberline {2.3}Structure}{10}{section.2.3}
+\contentsline {section}{\numberline {2.4}The Importance of Architecture}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}Managing Attributes and Change}{11}{section.2.5}
+\contentsline {section}{\numberline {2.6}Prediction of Attributes}{12}{section.2.6}
+\contentsline {section}{\numberline {2.7}Communication Between Stakeholders}{12}{section.2.7}
+\contentsline {section}{\numberline {2.8}Early Design and Constraints}{12}{section.2.8}
+\contentsline {section}{\numberline {2.9}Evolutionary Prototyping}{13}{section.2.9}
+\contentsline {section}{\numberline {2.10}Cost and Scheduling}{13}{section.2.10}
+\contentsline {section}{\numberline {2.11}Product Line (Model)}{14}{section.2.11}
+\contentsline {section}{\numberline {2.12}Component Level \& Channelling Development}{14}{section.2.12}
+\contentsline {chapter}{\numberline {3}Context Design}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Technical Context}{15}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Controlling Quality Attributes}{15}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Project Life-cycle Context}{16}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}V-Model}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Spiral Model}{17}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Agile Development}{18}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Agile + Devops}{20}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Business Context}{20}{section.3.3}
+\contentsline {section}{\numberline {3.4}Professional Context}{20}{section.3.4}
+\contentsline {section}{\numberline {3.5}Domain-Specific Software Architecture}{21}{section.3.5}
+\contentsline {section}{\numberline {3.6}Architectural Patterns}{22}{section.3.6}
+\contentsline {chapter}{\numberline {4}Quality Attriburtes}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}Some Background}{26}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Stakeholders}{26}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Functional Requirements}{26}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Constraints}{26}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Quality Attributes}{26}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Problems with Quality Attributes}{27}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}QA Scenarios}{27}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Architectural Tactics}{28}{subsection.4.2.3}
+\contentsline {subsubsection}{Example Tactics}{28}{section*.20}
+\contentsline {subsection}{\numberline {4.2.4}Categories of Architectural Design Decisions}{28}{subsection.4.2.4}
+\contentsline {chapter}{\numberline {5}Availability}{30}{chapter.5}
+\contentsline {section}{\numberline {5.1}Availability}{30}{section.5.1}
+\contentsline {section}{\numberline {5.2}Faults, errors, and failures}{30}{section.5.2}
+\contentsline {section}{\numberline {5.3}Faults, errors, and failures - Example}{30}{section.5.3}
+\contentsline {section}{\numberline {5.4}Generic Scenario}{31}{section.5.4}
+\contentsline {section}{\numberline {5.5}Concrete Scenario}{31}{section.5.5}
+\contentsline {section}{\numberline {5.6}Availability Tactics}{32}{section.5.6}
+\contentsline {section}{\numberline {5.7}WatchDog}{32}{section.5.7}
+\contentsline {section}{\numberline {5.8}Architectural Design Decisions}{32}{section.5.8}
+\contentsline {subsection}{\numberline {5.8.1}Allocation of Responsibilities}{33}{subsection.5.8.1}
+\contentsline {subsection}{\numberline {5.8.2}Coordination Model}{33}{subsection.5.8.2}
+\contentsline {subsection}{\numberline {5.8.3}Data Model}{33}{subsection.5.8.3}
+\contentsline {subsection}{\numberline {5.8.4}Management of Resources}{33}{subsection.5.8.4}
+\contentsline {subsection}{\numberline {5.8.5}Mapping among architectural elements}{34}{subsection.5.8.5}
+\contentsline {subsection}{\numberline {5.8.6}Binding Time Decisions}{34}{subsection.5.8.6}
+\contentsline {subsection}{\numberline {5.8.7}Choice of Technology}{34}{subsection.5.8.7}
+\contentsline {chapter}{\numberline {6}Performance}{35}{chapter.6}
+\contentsline {section}{\numberline {6.1}Performance General Scenario}{35}{section.6.1}
+\contentsline {section}{\numberline {6.2}Making the Scenario Specific}{35}{section.6.2}
+\contentsline {section}{\numberline {6.3}A Possible Architecture}{35}{section.6.3}
+\contentsline {section}{\numberline {6.4}Being Specific About the Architecture}{36}{section.6.4}
+\contentsline {section}{\numberline {6.5}Performance Tactics}{36}{section.6.5}
+\contentsline {section}{\numberline {6.6}Control Resource Demand Tactics}{36}{section.6.6}
+\contentsline {section}{\numberline {6.7}Manage Resources}{36}{section.6.7}
+\contentsline {section}{\numberline {6.8}Checklist: Allocation of Responsibilities}{37}{section.6.8}
+\contentsline {section}{\numberline {6.9}Checklist: Coordination Model }{37}{section.6.9}
+\contentsline {section}{\numberline {6.10}Checklist: Data Model}{37}{section.6.10}
+\contentsline {section}{\numberline {6.11}Checklist: Mapping Among Architecture Elements }{37}{section.6.11}
+\contentsline {section}{\numberline {6.12}Checklist: Resource Management}{37}{section.6.12}
+\contentsline {section}{\numberline {6.13}Checklist: Binding Time}{38}{section.6.13}
+\contentsline {section}{\numberline {6.14}Checklist: Choice of Technology}{38}{section.6.14}
+\contentsline {chapter}{\numberline {7}Security}{39}{chapter.7}
+\contentsline {section}{\numberline {7.1}Important QA's}{39}{section.7.1}
+\contentsline {section}{\numberline {7.2}Security Scenario Components}{39}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Generic Example}{39}{subsection.7.2.1}
+\contentsline {section}{\numberline {7.3}More Concrete example}{40}{section.7.3}
+\contentsline {section}{\numberline {7.4}Security Architecture tactics}{40}{section.7.4}
+\contentsline {section}{\numberline {7.5}Architectural Design Decisions}{40}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Allocation of resposibilities}{40}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Coordination Model}{40}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}Data Model}{41}{subsection.7.5.3}
+\contentsline {subsection}{\numberline {7.5.4}Mapping among Architectural Elements}{41}{subsection.7.5.4}
+\contentsline {subsection}{\numberline {7.5.5}Resource Management}{41}{subsection.7.5.5}
+\contentsline {subsection}{\numberline {7.5.6}Binding Time}{41}{subsection.7.5.6}
+\contentsline {subsection}{\numberline {7.5.7}Choices of Technologies}{41}{subsection.7.5.7}
+\contentsline {chapter}{\numberline {8}Connectors}{42}{chapter.8}
+\contentsline {section}{\numberline {8.1}What is Different About Connectors?}{43}{section.8.1}
+\contentsline {section}{\numberline {8.2}Benefits of Explicit Connectors}{43}{section.8.2}
+\contentsline {section}{\numberline {8.3}Roles Played By Software Connectors}{43}{section.8.3}
+\contentsline {section}{\numberline {8.4}Communication}{44}{section.8.4}
+\contentsline {section}{\numberline {8.5}Coordination}{44}{section.8.5}
+\contentsline {section}{\numberline {8.6}Conversion}{44}{section.8.6}
+\contentsline {section}{\numberline {8.7}Facilitation}{45}{section.8.7}
+\contentsline {section}{\numberline {8.8}Types of Connectors (Talyor, Medvidovic \& Dashofy)}{45}{section.8.8}
+\contentsline {chapter}{\numberline {9}Architectural Patterns}{46}{chapter.9}
+\contentsline {section}{\numberline {9.1}Static Patterns}{46}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Layer Pattern}{46}{subsection.9.1.1}
+\contentsline {section}{\numberline {9.2}Connector and component models}{47}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Model-View-Controller}{47}{subsection.9.2.1}
+\contentsline {section}{\numberline {9.3}Deployment/Allocation patterns}{48}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Map-reduce pattern}{48}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Other Allocation Patterns}{49}{subsection.9.3.2}
+\contentsline {section}{\numberline {9.4}Other patterns}{49}{section.9.4}
+\contentsline {section}{\numberline {9.5}Relationship between Patterns and Tactics}{50}{section.9.5}
+\contentsline {chapter}{\numberline {10}Testability}{51}{chapter.10}
+\contentsline {section}{\numberline {10.1}Overview}{51}{section.10.1}
+\contentsline {section}{\numberline {10.2}General Scenario of Testing}{51}{section.10.2}
+\contentsline {section}{\numberline {10.3}Main Tactics Towards Increasing Testability}{52}{section.10.3}
+\contentsline {section}{\numberline {10.4}Checklist Towards Achieving Testability}{53}{section.10.4}
+\contentsline {section}{\numberline {10.5}Summary}{53}{section.10.5}
+\contentsline {chapter}{\numberline {11}Modifiability}{54}{chapter.11}
+\contentsline {section}{\numberline {11.1}Overview}{54}{section.11.1}
+\contentsline {section}{\numberline {11.2}Four key questions that are asked when making a system:}{54}{section.11.2}
+\contentsline {section}{\numberline {11.3}A specific scenario with same "general scenario" terms used as in the testability section:}{54}{section.11.3}
+\contentsline {section}{\numberline {11.4}Important Terms}{54}{section.11.4}
+\contentsline {section}{\numberline {11.5}Tactics of Modifiability:}{55}{section.11.5}
+\contentsline {section}{\numberline {11.6}Checklist Towards Achieving Modifiability}{55}{section.11.6}
+\contentsline {section}{\numberline {11.7}Summary}{55}{section.11.7}
+\contentsline {chapter}{\numberline {12}Architectural Modeling:}{56}{chapter.12}
+\contentsline {section}{\numberline {12.1}Overview}{56}{section.12.1}
+\contentsline {section}{\numberline {12.2}How the model looks like:}{56}{section.12.2}
+\contentsline {section}{\numberline {12.3}MVC Model \IeC {\textendash } model to test the \IeC {\textquotedblleft }performance\IeC {\textquotedblright } quality attribute}{56}{section.12.3}
+\contentsline {section}{\numberline {12.4}Main Quality Attributes and their Analysis Techniques}{56}{section.12.4}
+\contentsline {section}{\numberline {12.5}Types of Analysis}{57}{section.12.5}
+\contentsline {section}{\numberline {12.6}Summary}{57}{section.12.6}
+\contentsline {chapter}{\numberline {13}Lifecycle}{58}{chapter.13}
+\contentsline {section}{\numberline {13.1}Overview}{58}{section.13.1}
+\contentsline {section}{\numberline {13.2}Typical Examples}{58}{section.13.2}
+\contentsline {section}{\numberline {13.3}Agile Programming}{62}{section.13.3}
+\contentsline {section}{\numberline {13.4}Comparison of Agile versus Plan-Driven Approach}{62}{section.13.4}
+\contentsline {section}{\numberline {13.5}Summary}{69}{section.13.5}
+\contentsline {chapter}{\numberline {14}Product Line Architecture}{70}{chapter.14}
+\contentsline {section}{\numberline {14.1}Overview}{70}{section.14.1}
+\contentsline {section}{\numberline {14.2}Key Properties}{70}{section.14.2}
+\contentsline {section}{\numberline {14.3}Benefits to organization}{70}{section.14.3}
+\contentsline {section}{\numberline {14.4}Main Terms}{71}{section.14.4}
+\contentsline {section}{\numberline {14.5}Different Techniques in Introducing Product Lines}{71}{section.14.5}
+\contentsline {section}{\numberline {14.6}Pros of Using a Product Line:}{71}{section.14.6}
+\contentsline {section}{\numberline {14.7}Architectural Features of Product Lines:}{71}{section.14.7}
+\contentsline {section}{\numberline {14.8}Phased Introduction}{71}{section.14.8}
+\contentsline {chapter}{\numberline {15}DevOps}{72}{chapter.15}
+\contentsline {section}{\numberline {15.1}Overview}{72}{section.15.1}
+\contentsline {section}{\numberline {15.2}OSLC}{72}{section.15.2}
+\contentsline {section}{\numberline {15.3}Critical Points in the Lifecycle of Software}{73}{section.15.3}
+\contentsline {section}{\numberline {15.4}Microservices Architectural Pattern}{73}{section.15.4}
+\contentsline {section}{\numberline {15.5}How to make development easier, faster, and better}{73}{section.15.5}
+\contentsline {chapter}{\numberline {16}Analysis (Architectural Evaluation)}{75}{chapter.16}
+\contentsline {section}{\numberline {16.1}Aids}{75}{section.16.1}
