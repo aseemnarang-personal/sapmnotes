@@ -79,7 +79,7 @@
 \contentsline {section}{\numberline {7.4}Security Architecture tactics}{40}{section.7.4}
 \contentsline {section}{\numberline {7.5}Architectural Design Decisions}{40}{section.7.5}
 \contentsline {subsection}{\numberline {7.5.1}Allocation of resposibilities}{40}{subsection.7.5.1}
-\contentsline {subsection}{\numberline {7.5.2}Coordination Model}{40}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.2}Coordination Model}{41}{subsection.7.5.2}
 \contentsline {subsection}{\numberline {7.5.3}Data Model}{41}{subsection.7.5.3}
 \contentsline {subsection}{\numberline {7.5.4}Mapping among Architectural Elements}{41}{subsection.7.5.4}
 \contentsline {subsection}{\numberline {7.5.5}Resource Management}{41}{subsection.7.5.5}
